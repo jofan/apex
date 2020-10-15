@@ -4,7 +4,7 @@ package ruby
 import (
 	"strings"
 
-	"github.com/apex/apex/function"
+	"github.com/jofan/apex/function"
 )
 
 const (

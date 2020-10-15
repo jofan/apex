@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/apex/apex/function"
+	"github.com/jofan/apex/function"
 	"github.com/apex/log"
 	"github.com/aws/aws-sdk-go/service/lambda"
 )
