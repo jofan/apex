@@ -6,7 +6,7 @@ set -e
 usage() {
   this=$1
   cat <<EOF
-$this: download go binaries for apex/apex
+$this: download go binaries for jofan/apex
 
 Usage: $this [-b] bindir [version]
   -b sets bindir or installation directory, default "/usr/local/bin"
